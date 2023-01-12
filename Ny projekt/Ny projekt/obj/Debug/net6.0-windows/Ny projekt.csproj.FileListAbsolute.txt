@@ -1,0 +1,18 @@
+C:\Users\sande\OneDrive - TECHCOLLEGE\HTX\Fag\Programmering\Eksamensprojekt December\Ny projekt\Ny projekt\bin\Debug\net6.0-windows\Ny projekt.exe
+C:\Users\sande\OneDrive - TECHCOLLEGE\HTX\Fag\Programmering\Eksamensprojekt December\Ny projekt\Ny projekt\bin\Debug\net6.0-windows\Ny projekt.deps.json
+C:\Users\sande\OneDrive - TECHCOLLEGE\HTX\Fag\Programmering\Eksamensprojekt December\Ny projekt\Ny projekt\bin\Debug\net6.0-windows\Ny projekt.runtimeconfig.json
+C:\Users\sande\OneDrive - TECHCOLLEGE\HTX\Fag\Programmering\Eksamensprojekt December\Ny projekt\Ny projekt\bin\Debug\net6.0-windows\Ny projekt.dll
+C:\Users\sande\OneDrive - TECHCOLLEGE\HTX\Fag\Programmering\Eksamensprojekt December\Ny projekt\Ny projekt\bin\Debug\net6.0-windows\Ny projekt.pdb
+C:\Users\sande\OneDrive - TECHCOLLEGE\HTX\Fag\Programmering\Eksamensprojekt December\Ny projekt\Ny projekt\obj\Debug\net6.0-windows\Ny projekt.csproj.AssemblyReference.cache
+C:\Users\sande\OneDrive - TECHCOLLEGE\HTX\Fag\Programmering\Eksamensprojekt December\Ny projekt\Ny projekt\obj\Debug\net6.0-windows\Ny_projekt.Form1.resources
+C:\Users\sande\OneDrive - TECHCOLLEGE\HTX\Fag\Programmering\Eksamensprojekt December\Ny projekt\Ny projekt\obj\Debug\net6.0-windows\Ny_projekt.Form2.resources
+C:\Users\sande\OneDrive - TECHCOLLEGE\HTX\Fag\Programmering\Eksamensprojekt December\Ny projekt\Ny projekt\obj\Debug\net6.0-windows\Ny projekt.csproj.GenerateResource.cache
+C:\Users\sande\OneDrive - TECHCOLLEGE\HTX\Fag\Programmering\Eksamensprojekt December\Ny projekt\Ny projekt\obj\Debug\net6.0-windows\Ny projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sande\OneDrive - TECHCOLLEGE\HTX\Fag\Programmering\Eksamensprojekt December\Ny projekt\Ny projekt\obj\Debug\net6.0-windows\Ny projekt.AssemblyInfoInputs.cache
+C:\Users\sande\OneDrive - TECHCOLLEGE\HTX\Fag\Programmering\Eksamensprojekt December\Ny projekt\Ny projekt\obj\Debug\net6.0-windows\Ny projekt.AssemblyInfo.cs
+C:\Users\sande\OneDrive - TECHCOLLEGE\HTX\Fag\Programmering\Eksamensprojekt December\Ny projekt\Ny projekt\obj\Debug\net6.0-windows\Ny projekt.csproj.CoreCompileInputs.cache
+C:\Users\sande\OneDrive - TECHCOLLEGE\HTX\Fag\Programmering\Eksamensprojekt December\Ny projekt\Ny projekt\obj\Debug\net6.0-windows\Ny projekt.dll
+C:\Users\sande\OneDrive - TECHCOLLEGE\HTX\Fag\Programmering\Eksamensprojekt December\Ny projekt\Ny projekt\obj\Debug\net6.0-windows\refint\Ny projekt.dll
+C:\Users\sande\OneDrive - TECHCOLLEGE\HTX\Fag\Programmering\Eksamensprojekt December\Ny projekt\Ny projekt\obj\Debug\net6.0-windows\Ny projekt.pdb
+C:\Users\sande\OneDrive - TECHCOLLEGE\HTX\Fag\Programmering\Eksamensprojekt December\Ny projekt\Ny projekt\obj\Debug\net6.0-windows\Ny projekt.genruntimeconfig.cache
+C:\Users\sande\OneDrive - TECHCOLLEGE\HTX\Fag\Programmering\Eksamensprojekt December\Ny projekt\Ny projekt\obj\Debug\net6.0-windows\ref\Ny projekt.dll

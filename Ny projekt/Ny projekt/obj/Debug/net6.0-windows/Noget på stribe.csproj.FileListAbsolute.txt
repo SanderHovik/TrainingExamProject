@@ -1,0 +1,18 @@
+C:\Users\sande\OneDrive - TECHCOLLEGE\HTX\Fag\Programmering\Eksamensprojekt December\Ny projekt\Ny projekt\bin\Debug\net6.0-windows\Noget på stribe.exe
+C:\Users\sande\OneDrive - TECHCOLLEGE\HTX\Fag\Programmering\Eksamensprojekt December\Ny projekt\Ny projekt\bin\Debug\net6.0-windows\Noget på stribe.deps.json
+C:\Users\sande\OneDrive - TECHCOLLEGE\HTX\Fag\Programmering\Eksamensprojekt December\Ny projekt\Ny projekt\bin\Debug\net6.0-windows\Noget på stribe.runtimeconfig.json
+C:\Users\sande\OneDrive - TECHCOLLEGE\HTX\Fag\Programmering\Eksamensprojekt December\Ny projekt\Ny projekt\bin\Debug\net6.0-windows\Noget på stribe.dll
+C:\Users\sande\OneDrive - TECHCOLLEGE\HTX\Fag\Programmering\Eksamensprojekt December\Ny projekt\Ny projekt\bin\Debug\net6.0-windows\Noget på stribe.pdb
+C:\Users\sande\OneDrive - TECHCOLLEGE\HTX\Fag\Programmering\Eksamensprojekt December\Ny projekt\Ny projekt\obj\Debug\net6.0-windows\Noget på stribe.csproj.AssemblyReference.cache
+C:\Users\sande\OneDrive - TECHCOLLEGE\HTX\Fag\Programmering\Eksamensprojekt December\Ny projekt\Ny projekt\obj\Debug\net6.0-windows\Ny_projekt.Form1.resources
+C:\Users\sande\OneDrive - TECHCOLLEGE\HTX\Fag\Programmering\Eksamensprojekt December\Ny projekt\Ny projekt\obj\Debug\net6.0-windows\Ny_projekt.Form2.resources
+C:\Users\sande\OneDrive - TECHCOLLEGE\HTX\Fag\Programmering\Eksamensprojekt December\Ny projekt\Ny projekt\obj\Debug\net6.0-windows\Noget på stribe.csproj.GenerateResource.cache
+C:\Users\sande\OneDrive - TECHCOLLEGE\HTX\Fag\Programmering\Eksamensprojekt December\Ny projekt\Ny projekt\obj\Debug\net6.0-windows\Noget på stribe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sande\OneDrive - TECHCOLLEGE\HTX\Fag\Programmering\Eksamensprojekt December\Ny projekt\Ny projekt\obj\Debug\net6.0-windows\Noget på stribe.AssemblyInfoInputs.cache
+C:\Users\sande\OneDrive - TECHCOLLEGE\HTX\Fag\Programmering\Eksamensprojekt December\Ny projekt\Ny projekt\obj\Debug\net6.0-windows\Noget på stribe.AssemblyInfo.cs
+C:\Users\sande\OneDrive - TECHCOLLEGE\HTX\Fag\Programmering\Eksamensprojekt December\Ny projekt\Ny projekt\obj\Debug\net6.0-windows\Noget på stribe.csproj.CoreCompileInputs.cache
+C:\Users\sande\OneDrive - TECHCOLLEGE\HTX\Fag\Programmering\Eksamensprojekt December\Ny projekt\Ny projekt\obj\Debug\net6.0-windows\Noget på stribe.dll
+C:\Users\sande\OneDrive - TECHCOLLEGE\HTX\Fag\Programmering\Eksamensprojekt December\Ny projekt\Ny projekt\obj\Debug\net6.0-windows\refint\Noget på stribe.dll
+C:\Users\sande\OneDrive - TECHCOLLEGE\HTX\Fag\Programmering\Eksamensprojekt December\Ny projekt\Ny projekt\obj\Debug\net6.0-windows\Noget på stribe.pdb
+C:\Users\sande\OneDrive - TECHCOLLEGE\HTX\Fag\Programmering\Eksamensprojekt December\Ny projekt\Ny projekt\obj\Debug\net6.0-windows\Noget på stribe.genruntimeconfig.cache
+C:\Users\sande\OneDrive - TECHCOLLEGE\HTX\Fag\Programmering\Eksamensprojekt December\Ny projekt\Ny projekt\obj\Debug\net6.0-windows\ref\Noget på stribe.dll
